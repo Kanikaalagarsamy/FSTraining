@@ -1,5 +1,9 @@
 body{
     background-color: rgb(177, 156, 128);
+    background-image: url('images/bgimg.png');
+    position: relative;
+    padding: auto;
+    background-size: cover;
     
 }
 
@@ -14,7 +18,7 @@ p{
     border-color: rgb(172, 66, 66);
     border-width: 20px;
     border-style: double;
-    width: 150px;
+    width: 250px;
     margin: 70px;
     display: inline-block;
 
@@ -23,7 +27,7 @@ p{
     border-color: rgb(172, 66, 66);
     border-width: 20px;
     border-style: double;
-    width: 150px;
+    width: 250px;
     margin: 70px;
     display: inline-block;
 
@@ -32,7 +36,7 @@ p{
     border-color: rgb(172, 66, 66);
     border-width: 20px;
     border-style: double;
-    width: 150px;
+    width: 250px;
     margin: 70px;
     display: inline-block;
 
