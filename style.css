@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(177, 156, 128);
+    
+}
+
+h1{
+    color: rgb(242, 198, 198);
+    text-align:center;
+}
+p{
+    text-align: center;
+}
+.box1{
+    border-color: rgb(172, 66, 66);
+    border-width: 20px;
+    border-style: double;
+    width: 150px;
+    margin: 70px;
+    display: inline-block;
+
+}
+.box2{
+    border-color: rgb(172, 66, 66);
+    border-width: 20px;
+    border-style: double;
+    width: 150px;
+    margin: 70px;
+    display: inline-block;
+
+}
+.box3{
+    border-color: rgb(172, 66, 66);
+    border-width: 20px;
+    border-style: double;
+    width: 150px;
+    margin: 70px;
+    display: inline-block;
+
+}
+.image{
+    position: relative;
+    background-image: url('file:///C:/Users/kanika/Downloads/bgimg.png');
+    padding: auto;
+    background-size: cover;
+    margin: 0px;
+
+}
